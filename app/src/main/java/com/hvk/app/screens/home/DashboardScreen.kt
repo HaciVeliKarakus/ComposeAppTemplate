@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate.screens.home
+package com.hvk.app.screens.home
 
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.fillMaxSize
@@ -24,9 +24,9 @@ import cafe.adriel.voyager.navigator.tab.CurrentTab
 import cafe.adriel.voyager.navigator.tab.LocalTabNavigator
 import cafe.adriel.voyager.navigator.tab.Tab
 import cafe.adriel.voyager.navigator.tab.TabNavigator
-import com.hvk.composeapptemplate.screens.home.tabs.HomeTab
-import com.hvk.composeapptemplate.screens.home.tabs.PersonTab
-import com.hvk.composeapptemplate.screens.home.tabs.SettingsTab
+import com.hvk.app.screens.home.tabs.HomeTab
+import com.hvk.app.screens.home.tabs.PersonTab
+import com.hvk.app.screens.home.tabs.SettingsTab
 
 
 private val tabs = listOf(

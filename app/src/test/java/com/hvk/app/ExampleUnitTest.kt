@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate
+package com.hvk.app
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate.screens.home.tabs
+package com.hvk.app.screens.home.tabs
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

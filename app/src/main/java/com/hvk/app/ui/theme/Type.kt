@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate.ui.theme
+package com.hvk.app.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

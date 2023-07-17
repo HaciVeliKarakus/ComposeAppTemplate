@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate.screens.login
+package com.hvk.app.screens.login
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
@@ -28,9 +28,9 @@ import cafe.adriel.voyager.androidx.AndroidScreen
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.bottomSheet.LocalBottomSheetNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
-import com.hvk.composeapptemplate.R
-import com.hvk.composeapptemplate.components.BottomMessageScreen
-import com.hvk.composeapptemplate.screens.home.DashboardScreen
+import com.hvk.app.R
+import com.hvk.app.components.BottomMessageScreen
+import com.hvk.app.screens.home.DashboardScreen
 import org.koin.androidx.compose.getViewModel
 
 class LoginScreen : AndroidScreen() {

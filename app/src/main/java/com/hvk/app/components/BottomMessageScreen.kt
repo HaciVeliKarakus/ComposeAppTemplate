@@ -1,4 +1,4 @@
-package com.hvk.composeapptemplate.components
+package com.hvk.app.components
 
 import android.util.Log
 import androidx.compose.foundation.layout.*
